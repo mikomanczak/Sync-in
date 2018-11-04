@@ -1,13 +1,13 @@
 {
-  "main.css": "/Sync-in/static/css/main.40dc8ea3.chunk.css",
-  "main.js": "/Sync-in/static/js/main.2bd93f42.chunk.js",
-  "main.js.map": "/Sync-in/static/js/main.2bd93f42.chunk.js.map",
-  "static/js/1.d3eb1eef.chunk.js": "/Sync-in/static/js/1.d3eb1eef.chunk.js",
-  "static/js/1.d3eb1eef.chunk.js.map": "/Sync-in/static/js/1.d3eb1eef.chunk.js.map",
+  "main.css": "/Sync-in/static/css/main.91031cf2.chunk.css",
+  "main.js": "/Sync-in/static/js/main.fe207528.chunk.js",
+  "main.js.map": "/Sync-in/static/js/main.fe207528.chunk.js.map",
+  "static/js/1.a0d97fa6.chunk.js": "/Sync-in/static/js/1.a0d97fa6.chunk.js",
+  "static/js/1.a0d97fa6.chunk.js.map": "/Sync-in/static/js/1.a0d97fa6.chunk.js.map",
   "runtime~main.js": "/Sync-in/static/js/runtime~main.241adc77.js",
   "runtime~main.js.map": "/Sync-in/static/js/runtime~main.241adc77.js.map",
-  "static/css/main.40dc8ea3.chunk.css.map": "/Sync-in/static/css/main.40dc8ea3.chunk.css.map",
+  "static/css/main.91031cf2.chunk.css.map": "/Sync-in/static/css/main.91031cf2.chunk.css.map",
   "index.html": "/Sync-in/index.html",
-  "precache-manifest.182f8bcfa35ba15ba8cb0f5509389308.js": "/Sync-in/precache-manifest.182f8bcfa35ba15ba8cb0f5509389308.js",
+  "precache-manifest.d6be8e59eaacaae02af8422c58fa4723.js": "/Sync-in/precache-manifest.d6be8e59eaacaae02af8422c58fa4723.js",
   "service-worker.js": "/Sync-in/service-worker.js"
 }
